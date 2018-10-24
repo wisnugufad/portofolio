@@ -1,0 +1,20 @@
+.jumbotron{
+}
+
+.kotak{
+	background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("../img/IMG_6539.JPG");
+	background-position: center;
+	height: 400px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #FFF;
+}
+
+.jumbotron img{
+	width: 200px;
+}
+
+
+body{
+	margin-top: 30px;
+}
