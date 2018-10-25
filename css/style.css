@@ -90,3 +90,11 @@ a{
 .text-left hr{
 	width: 100%
 }
+
+.text-right{
+	text-align: right;
+}
+
+.text-right hr{
+	width: 100%
+}
